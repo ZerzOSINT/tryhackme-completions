@@ -10,6 +10,7 @@ This repo tracks my progress and summaries of cybersecurity labs and courses com
 - [Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
 - [Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 - [Search Skills](https://tryhackme.com/room/searchskills)
+- [OSINT](https://tryhackme.com/room/ohsint)
 
 Each summary includes key takeaways, tools used, and notes on vulnerabilities exploited.
 
