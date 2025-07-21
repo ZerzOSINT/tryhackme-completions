@@ -11,6 +11,7 @@ This repo tracks my progress and summaries of cybersecurity labs and courses com
 - [Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 - [Search Skills](https://tryhackme.com/room/searchskills)
 - [OSINT](https://tryhackme.com/room/ohsint)
+- [Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
 Each summary includes key takeaways, tools used, and notes on vulnerabilities exploited.
 
