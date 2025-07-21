@@ -12,6 +12,8 @@ This repo tracks my progress and summaries of cybersecurity labs and courses com
 - [Search Skills](https://tryhackme.com/room/searchskills)
 - [OSINT](https://tryhackme.com/room/ohsint)
 - [Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
+- [Digital Forensics Fundamentals](https://tryhackme.com/room/digitalforensicsfundamentals)
+- [Incident Response Fundamentals](https://tryhackme.com/room/incidentresponsefundamentals)
 
 Each summary includes key takeaways, tools used, and notes on vulnerabilities exploited.
 
